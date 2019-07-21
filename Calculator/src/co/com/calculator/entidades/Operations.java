@@ -1,4 +1,4 @@
-package Practice;
+package co.com.calculator.entidades;
 
 public class Operations {
 
