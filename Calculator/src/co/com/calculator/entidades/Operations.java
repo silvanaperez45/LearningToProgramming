@@ -3,7 +3,8 @@ package co.com.calculator.entidades;
 public class Operations {
 
 	public int add(int a, int b){
-		return a+b;	
+		int result= a+b;
+		return result;	
 	}
 	public int sub(int a, int b){
 		return a-b;	
